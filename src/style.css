@@ -3,7 +3,6 @@ body {
 }
 
 a {
-  text-align: center;
   color: #002f8c;
 }
 
@@ -18,21 +17,6 @@ h2 {
 }
 
 p {
-  text-align: center;
-  color: #002f8c;
-}
-
-.navigation-1 {
-  text-align: center;
-  color: #002f8c;
-}
-
-.navigation-2 {
-  text-align: left;
-  color: #002f8c;
-}
-
-.navigation-3 {
   text-align: center;
   color: #002f8c;
 }
