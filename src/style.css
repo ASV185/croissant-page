@@ -2,21 +2,33 @@ body {
   background-color: #84c6c6;
 }
 
-a {
-  color: #002f8c;
-}
-
 h1 {
   text-align: center;
   color: #002f8c;
 }
 
 h2 {
-  text-align: left;
+  text-align: center;
   color: #002f8c;
 }
 
 p {
   text-align: center;
   color: #002f8c;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+  color: #002f8c;
+}
+
+.croissant-picture {
+  max-width: 75%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
 }
